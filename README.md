@@ -18,3 +18,15 @@ Create an interactive analytics platform to evaluate and compare Andhra Pradesh'
 - Public vs Private performance gap?
 
    Dashboard Interaction <a href="https://github.com/VarshithDev/AP_College_Data_Analysis_Dashboard/blob/main/project_college.pdf">View Dashboard</a>
+
+## Process
+Raw Excel data (NIRF rankings, NAAC grades, placements, fees) 
+↓ PostgreSQL ETL pipeline (pgAdmin) 
+↓ Power BI DirectQuery connection 
+↓ 3-page interactive dashboard:
+  • Page 1: Overview KPIs + slicers  
+  • Page 2: Single college performance
+  • Page 3: Head-to-head comparison
+↓ Native visuals + mobile layout 
+↓ Publish to Power BI Service 
+↓ GitHub portfolio repo
