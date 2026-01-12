@@ -74,6 +74,7 @@ Raw Excel data (NIRF rankings, NAAC grades, placements, fees)
 
 ## Final Conclusion
 This project successfully delivers a production-grade analytics platform that transforms fragmented NIRF rankings, NAAC accreditation data, placement statistics, and fee structures from 100+ Andhra Pradesh engineering colleges into a sophisticated 3-page interactive Power BI dashboard with PostgreSQL backend.
+
 🏆 **Students**: Vishnu IT identified as highest ROI (NIRF #8 + 62% placement + affordable fees vs expensive NIRF leaders)
 
 💼 **Recruiters**: 22-district talent mapping with placement rate filters and college benchmarking
