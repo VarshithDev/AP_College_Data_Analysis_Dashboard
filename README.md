@@ -4,3 +4,16 @@ Create an interactive analytics platform to evaluate and compare Andhra Pradesh'
 
 ## Dataset Used 
 - <a href="https://github.com/VarshithDev/AP_College_Data_Analysis_Dashboard/blob/main/AP_Top_100_project_data.xlsx">Dataset</a>
+
+## Questions (KPIs) 
+- Which colleges lead NIRF rankings by district?
+- What's the best value college (high placement/low fees)?
+- How does Vishnu IT compare to AU University?
+- Which ownership type dominates top rankings?
+- What NAAC grade distribution across 100 colleges?
+- Which university has most affiliated colleges?
+- Top 5 colleges by average CTC?
+- District-wise placement rate leaders?
+- Fees vs placement ROI ranking?
+- Public vs Private performance gap?
+  
