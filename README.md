@@ -60,7 +60,7 @@ Raw Excel data (NIRF rankings, NAAC grades, placements, fees)
 
 
 ## Project Insights 
-🏆 **AU University dominates NIRF rankings** but expensive fees
+🏆 **AU University dominates NIRF rankings** 
 
 💰 **Vishnu IT = Best value**: NIRF #8 + 62% placement + affordable
 
