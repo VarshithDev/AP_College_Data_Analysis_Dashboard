@@ -59,3 +59,16 @@ Raw Excel data (NIRF rankings, NAAC grades, placements, fees)
 <img width="954" height="564" alt="Screenshot 2026-01-13 000626" src="https://github.com/user-attachments/assets/799d0438-e30a-4079-9569-3c1fccf2187d" />
 
 
+## Project Insights 
+🏆 **AU University dominates NIRF rankings** but expensive fees
+
+💰 **Vishnu IT = Best value**: NIRF #8 + 62% placement + affordable
+
+📊 **Private colleges lead placements** (65% avg vs Public 52%)
+
+📍 **22 districts covered** - uneven distribution (3 districts = 45 colleges)
+
+🎓 **NAAC A++ rare** (only 8 colleges) - quality gap exists
+
+💼 **CTC leaders ≠ NIRF leaders** - Vishnu outperforms on ROI
+
