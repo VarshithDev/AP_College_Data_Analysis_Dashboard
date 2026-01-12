@@ -21,12 +21,21 @@ Create an interactive analytics platform to evaluate and compare Andhra Pradesh'
 
 ## Process
 Raw Excel data (NIRF rankings, NAAC grades, placements, fees) 
+
 ↓ PostgreSQL ETL pipeline (pgAdmin) 
+
 ↓ Power BI DirectQuery connection 
+
 ↓ 3-page interactive dashboard:
-  • Page 1: Overview KPIs + slicers  
+
+  • Page 1: Overview KPIs + slicers 
+  
   • Page 2: Single college performance
+  
   • Page 3: Head-to-head comparison
+  
 ↓ Native visuals + mobile layout 
+
 ↓ Publish to Power BI Service 
+
 ↓ GitHub portfolio repo
