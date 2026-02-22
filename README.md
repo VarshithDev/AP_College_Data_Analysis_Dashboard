@@ -26,7 +26,7 @@ Raw Excel data (NIRF rankings, NAAC grades, placements, fees)
 ↓ Power BI DirectQuery connection 
 
 ↓ 3-page interactive dashboard:
-
+  
   • Page 1: Overview KPIs + slicers 
   
   • Page 2: Single college performance
