@@ -43,19 +43,17 @@ Raw Excel data (NIRF rankings, NAAC grades, placements, fees)
 ### Main Page : 
 - Describes Colleges in Andhra Pradesh
 
-<img width="755" height="448" alt="Screenshot 2026-01-13 000552" src="https://github.com/user-attachments/assets/cbfae9ad-59a2-4faa-a56f-af7951ef5a7c" />
-
+<img width="1561" height="730" alt="image" src="https://github.com/user-attachments/assets/2cfbc18b-59a9-42d2-99d2-4a991120939c" />
 
 ### College Performance page : 
 - Describes every feature about College like Ranking , Courses , Seats & EAMCET Ranks , Fees , Placements , etc
--  <img width="1561" height="730" alt="image" src="https://github.com/user-attachments/assets/2cfbc18b-59a9-42d2-99d2-4a991120939c" />
-" />
-
+  <img width="1559" height="729" alt="image" src="https://github.com/user-attachments/assets/afc61686-05d8-4f0c-978b-81692c43bf75" />
 
 ### College Comparison Page : 
 - Compare the two colleges with visuals and insights , so one can know which college is better
 
-<img width="954" height="564" alt="Screenshot 2026-01-13 000626" src="https://github.com/user-attachments/assets/799d0438-e30a-4079-9569-3c1fccf2187d" />
+<img width="1559" height="729" alt="Screenshot 2026-06-03 174334" src="https://github.com/user-attachments/assets/f70f5a47-ffa2-4043-98bb-922c472c1d86" />
+
 
 
 ## Project Insights 
