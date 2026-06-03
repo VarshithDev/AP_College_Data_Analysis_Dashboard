@@ -47,9 +47,9 @@ Raw Excel data (NIRF rankings, NAAC grades, placements, fees)
 
 
 ### College Performance page : 
-- Describes every feature about College like Ranking , Courses , Seats & EAMCET Ranks , Fees , Placements , etc 
-
-<img width="749" height="435" alt="Screenshot 2026-01-13 000608" src="https://github.com/user-attachments/assets/90296d71-7819-4c6d-966a-02e2021d4ee1" />
+- Describes every feature about College like Ranking , Courses , Seats & EAMCET Ranks , Fees , Placements , etc
+-  <img width="1561" height="730" alt="image" src="https://github.com/user-attachments/assets/2cfbc18b-59a9-42d2-99d2-4a991120939c" />
+" />
 
 
 ### College Comparison Page : 
