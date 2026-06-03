@@ -16,7 +16,7 @@ Create an interactive analytics platform to evaluate and compare Andhra Pradesh'
 - Fees vs placement ROI ranking?
 - Public vs Private performance gap?
 
-   Dashboard Interaction <a href="https://github.com/VarshithDev/AP_College_Data_Analysis_Dashboard/blob/main/project_college.pdf">View Dashboard</a>
+   Dashboard Interaction <a href="https://github.com/VarshithDev/AP_College_Data_Analysis_Dashboard/blob/main/Dashboard/Home%20Page.png">View Dashboard</a>
 
 ## Process
 Raw Excel data (NIRF rankings, NAAC grades, placements, fees) 
