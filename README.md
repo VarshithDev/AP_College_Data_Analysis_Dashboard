@@ -52,7 +52,8 @@ Raw Excel data (NIRF rankings, NAAC grades, placements, fees)
 ### College Comparison Page : 
 - Compare the two colleges with visuals and insights , so one can know which college is better
 
-<img width="1559" height="729" alt="Screenshot 2026-06-03 174334" src="https://github.com/user-attachments/assets/f70f5a47-ffa2-4043-98bb-922c472c1d86" />
+<img width="1560" height="726" alt="image" src="https://github.com/user-attachments/assets/f0004840-96a7-4b85-8d3c-eee24267c8c5" />
+
 
 
 
